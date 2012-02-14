@@ -1,0 +1,23 @@
+#summary This page describes how to install a downloaded apk file into your mobile device.
+#labels Featured,Phase-Deploy
+
+_*Initial notes*_:
+  * Please follow this instruction only if you are absolutely know what you are doing. You execute all steps at your own risk!
+  * This instruction requires that you allow the installation of apps from sources other than the _Android^TM^_ market. For these purposes a setting must be changed (if not already done by you before). This setting should be reset after finishing the installation.
+  * Instructions are based on _Galaxy S II_. No other devices were tested.
+Execute the following steps to install a _mOnionO_ _ apk_ file onto your mobile device:
+  # Download the desired _apk_ archive from the [http://code.google.com/p/moniono/downloads/list download section] of the _mOnionO_ project onto your mobile device. Alternatively, you can download the file onto your PC, notebook etc. and copy it via USB to your device. You should store the _apk_ file into the _download_ folder.
+  # Click on menu button
+  # Select _Settings_
+  # Select _Applications_
+  # Activate _Unkown sources_ if not already active and confirm subsequent dialog. *This step should be reverted after finishing the installation!*
+  # Switch back to home screen and select _Applications_.
+  # Select _My files_
+  # Select _download_. If you uploaded the _apk_ file through USB to another directory, you should switch to that directory.
+  # Click on file downloaded _apk_ file. 
+  # Confirm installation.
+  # Open _mOnionO_
+  # Have fun …
+_*Again: It is highly recommended to revert the setting of step 5 after finishing installation.*_
+
+_Android_ is a trademark of _Google Inc._, _Galaxy S2_ is a trademark of _Samsung_
