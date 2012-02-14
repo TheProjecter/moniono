@@ -1,0 +1,31 @@
+#summary This page describes how to install a downloaded apk file into an _Android^TM^ AVD_ being part of the _Android Software Development Kit (SDK)_.
+#labels Featured,Phase-Deploy
+
+_*Notes*_:
+  * Please follow this instruction only if you are absolutely know what you are doing. You execute all steps at your own risk!
+
+=Installation of SDK=
+If you did not already install the _Android SDK_ onto your PC, notebook etc., you can download it from [http://developer.android.com/sdk/index.html here]. Afterwards, you should follow the instructions at [http://developer.android.com/sdk/installing.html this page] to install the SDK. Please make sure that you install at least support for API-level 10 as this is the target platform for _mOnionO_.
+
+=Creation of Android Virtual Device=
+You should execute the following steps in order to configure an _Android Virtual Device (AVD)_ with support for API-level 10:
+  # Switch to the installation directory of the _Android SDK_
+  # Execute _AVD Manager_
+  # Select _New …_
+  # Configure AVD according to your needs. It is recommended to increase available _Device ram size_ to at least 512 and _Max VM application heap size_ to 64. If you would like to download the _apk_ file directly to the AVD add _SD Card support_ property and set it to _yes_.
+
+=Installation of _mOnionO_ into AVD=
+As basic preparation for the original installation you should start the AVD by selecting it in the _AVD Manager_ and clicking _Start …_
+
+If you would like to download and install a _mOnionO apk_ file directly through the AVD, follow the steps described [ApkInstallation here].
+
+Otherwise, execute the following steps to install a _mOnionO_ _ apk_ file into your AVD by making use of the _adb_ tool which is provided as part of the _Android SDK_:
+  # Download the desired _apk_ archive from the [http://code.google.com/p/moniono/downloads/list download section] of the _mOnionO_ project onto your PC, notebook etc.
+   # Switch the directory _platform-tools_ inside the _Android SDK_ installation directory
+  # Execute _adb install_ followed by the fully qualified path to the _apk_ file. For the following example it is assumed that you downloaded the file _mOnionO-0.0.1alpha.apk_ into the directory _c:\temp_ ==> *_adb install c:\temp\ mOnionO-0.0.1alpha.apk_*
+  # Switch to the AVD
+  # Open applications
+  # Execute _mOnionO_
+  # Have fun …
+
+_Android_ is a trademark of _Google Inc._, _Galaxy S2_ is a trademark of _Samsung_
