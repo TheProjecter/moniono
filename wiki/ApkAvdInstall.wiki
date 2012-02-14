@@ -1,4 +1,4 @@
-#summary This page describes how to install a downloaded apk file into an _Android^TM^ AVD_ being part of the _Android Software Development Kit (SDK)_.
+#summary This page describes how to install a downloaded apk file into an AVD being part of the Android Software Development Kit (SDK).
 #labels Featured,Phase-Deploy
 
 _*Notes*_:
