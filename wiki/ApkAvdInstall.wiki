@@ -21,7 +21,7 @@ If you would like to download and install a _mOnionO apk_ file directly through 
 
 Otherwise, execute the following steps to install a _mOnionO_ _ apk_ file into your AVD by making use of the _adb_ tool which is provided as part of the _Android SDK_:
   # Download the desired _apk_ archive from the [http://code.google.com/p/moniono/downloads/list download section] of the _mOnionO_ project onto your PC, notebook etc.
-   # Switch the directory _platform-tools_ inside the _Android SDK_ installation directory
+  # Switch the directory _platform-tools_ inside the _Android SDK_ installation directory
   # Execute _adb install_ followed by the fully qualified path to the _apk_ file. For the following example it is assumed that you downloaded the file _mOnionO-0.0.1alpha.apk_ into the directory _c:\temp_ ==> *_adb install c:\temp\ mOnionO-0.0.1alpha.apk_*
   # Switch to the AVD
   # Open applications
