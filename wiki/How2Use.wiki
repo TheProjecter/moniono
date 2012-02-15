@@ -1,4 +1,3 @@
-#summary The user guide of mOnionO.
 #labels User-Guide,HowTo
 =User Guide=
 The _mOnionO_ app consists of two major parts, namely the _Overview_ and the _Details_. The former part provides overviews of favorite nodes and of search results. The latter part supports the inspection of detailed information on a single node.
@@ -7,19 +6,21 @@ On starting _mOnionO_ the _Overview_ part is opened.
 
 ==Overview ==
 On opening the _Overview_ of _mOnionO_, the list of favorite nodes is shown. Initially, this list is empty:
-<p>
-<img src="http://moniono.googlecode.com/svn/screenshots/SearchScreen.png" width="300px"/>
-</p>
+<img src="http://moniono.googlecode.com/svn/screenshots/EmptyStartScreen.png" width="300px"/>
 
 At the top of the screen, four icons support different actions.
-<p>
 <img src="http://moniono.googlecode.com/svn/screenshots/menu.png"/>
-</p>
   * The _Star_ icon resets the (result) list below the icons two those nodes which are marked as favorites.
   * The _magnifying glass_ can be used to initiate a search for nodes.
-  * The _Relay_ (_Rl_) and _Bridge_ (_Br_) icons can be used to show/hide the corresponding nodes from the result list. The particular nodes are displayed if the blue icon is shown. On clicking an icon it is greyed out indicating that the corresponding nodes are hidden from the list below.
+  * The _Relay_ (_Rl_) and _Bridge_ (_Br_) icons can be used to show/hide the corresponding nodes from the result list. The particular nodes are displayed if the blue icon is shown. On clicking an icon it is greyed out indicating that the corresponding nodes are hidden from the list below. A second click on a node type icon reactivates it.
 
 ===Search===
+On clicking the search button the search bar is opened below the icons.
+<img src="http://moniono.googlecode.com/svn/screenshots/SearchBar.png"/>
+
+Within the text area the search text can be entered. The search is executed on clicking the magnifier glass icon behind the text area.
+
+Search is executed based on nicknames, (hashed) fingerprints, and IP addresses. Multiple search terms can be provided delimited by white spaces. A search result must match all terms provided.
 
 
 ===Selection===
