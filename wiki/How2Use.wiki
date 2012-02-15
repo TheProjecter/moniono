@@ -1,4 +1,4 @@
-#labels User-Guide,HowTo
+#labels User-Guide,HowTo,in-progress
 =User Guide=
 The _mOnionO_ app consists of two major parts, namely the _Overview_ and the _Details_. The former part provides overviews of favorite nodes and of search results. The latter part supports the inspection of detailed information on a single node.
 
@@ -23,7 +23,7 @@ On clicking the search button the search bar is opened below the icons.
 <p>
 <img src="http://moniono.googlecode.com/svn/screenshots/SearchBar.png" width="300px"/>
 </p>
-Within the text area the search text can be entered. The search is executed on clicking the magnifier glass icon behind the text area.
+Within the text field the search text can be entered. The search is executed on clicking the magnifier glass icon behind the text area.
 
 Search is executed based on nicknames, (hashed) fingerprints, and IP addresses. Multiple search terms can be provided delimited by white spaces. A search result must match all terms provided.
 
