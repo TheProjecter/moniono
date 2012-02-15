@@ -12,7 +12,7 @@ On opening the _Overview_ of _mOnionO_, the list of favorite nodes is shown. Ini
 
 At the top of the screen, four icons support different actions.
 <p>
-<img src="http://moniono.googlecode.com/svn/screenshots/menu.png" width="200px"/>/>
+<img src="http://moniono.googlecode.com/svn/screenshots/menu.png" width="200px"/>
 </p>
   * The _Star_ icon resets the (result) list below the icons two those nodes which are marked as favorites.
   * The _magnifying glass_ can be used to initiate a search for nodes.
@@ -21,7 +21,7 @@ At the top of the screen, four icons support different actions.
 ===Search===
 On clicking the search button the search bar is opened below the icons.
 <p>
-<img src="http://moniono.googlecode.com/svn/screenshots/SearchBar.png" width="300px"/>/>
+<img src="http://moniono.googlecode.com/svn/screenshots/SearchBar.png" width="300px"/>
 </p>
 Within the text area the search text can be entered. The search is executed on clicking the magnifier glass icon behind the text area.
 
