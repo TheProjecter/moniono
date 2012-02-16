@@ -52,7 +52,21 @@ The following  screenshot shows an exemplary _Common_ tab:
 <img src="http://moniono.googlecode.com/svn/screenshots/CommonDetails.png" width="300px"/>
 </p>
 
-_Onionoo_ information about the current node is shown at the lower part of the tab. The <img src="http://moniono.googlecode.com/svn/screenshots/bookmark_inactive.png" height="12px"/> icon above the details information indicates that the node is not marked as favorite yet.
+_Onionoo_ information about the current node is shown at the lower part of the tab. As in overview lists, the color of the nickname indicates the online state of the node. If the name is shown in green, _Onionoo_ marked the node as _running_. Otherwise, the nickname is shown in red.
+
+The <img src="http://moniono.googlecode.com/svn/screenshots/bookmark_inactive.png" height="12px"/> icon above the details information indicates that the node is not marked as favorite yet. On clicking the icon, the node is marked as favorite. For this case, the icon switches to <img src="http://moniono.googlecode.com/svn/screenshots/bookmark.png" height="12px"/>.
+
+For favorite nodes, additional icons are displayed to perform more actions.
+<p>
+<img src="http://moniono.googlecode.com/svn/screenshots/favoriteActions.png" width="300px"/>
+</p>
+
+  # On clicking the <img src="http://moniono.googlecode.com/svn/screenshots/bookmark.png" height="12px"/> icon, the node is removed from the set of favorite nodes.
+  # On clicking the <img src="http://moniono.googlecode.com/svn/screenshots/edit.png" height="12px"/> icon, the nickname of the node as used by _mOnionO_ can be changed. This can, e.g., be used to name bridges or to better distinguish nodes in the favorites list. _*A nickname change will not affect the original node in any way.*_
+  # On clicking the <img src="http://moniono.googlecode.com/svn/screenshots/refresh.png" height="12px"/> icon, the nickname is reset to the name provided by _Onionoo_.
+
+
+
 
 ===Flags Tab===
 
