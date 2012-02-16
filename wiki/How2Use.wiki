@@ -25,9 +25,15 @@ On clicking the search button the search bar is opened below the icons.
 <p>
 <img src="http://moniono.googlecode.com/svn/screenshots/SearchBar.png" width="300px"/>
 </p>
-Within the text field the search text can be entered. The search is executed on clicking the magnifier glass icon behind the text area.
+Within the text field the search text can be entered. A search is executed on clicking the magnifier glass icon behind the search text field.
 
-Search is executed based on nicknames, (hashed) fingerprints, and IP addresses. Multiple search terms can be provided delimited by white spaces. A search result must match all terms provided.
+A search is executed based on nicknames, (hashed) fingerprints, and IP addresses. Multiple search terms can be provided delimited by white spaces. A search result must match all search terms provided.
+
+A search result is displayed as follows:
+
+<p>
+<img src="http://moniono.googlecode.com/svn/screenshots/SearchScreen.png" width="300px"/>
+</p>
 
 
 ===Selection===
