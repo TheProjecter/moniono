@@ -62,8 +62,10 @@ For favorite nodes, additional icons are displayed to perform more actions.
 </p>
 
   # On clicking the <img src="http://moniono.googlecode.com/svn/screenshots/bookmark.png" height="12px"/> icon, the node is removed from the set of favorite nodes.
-  # On clicking the <img src="http://moniono.googlecode.com/svn/screenshots/edit.png" height="12px"/> icon, the nickname of the node as used by _mOnionO_ can be changed. This can, e.g., be used to name bridges or to better distinguish nodes in the favorites list. _*A nickname change will not affect the original node in any way.*_
+  # On clicking the <img src="http://moniono.googlecode.com/svn/screenshots/edit.png" height="12px"/> icon, the nickname of the node as used by _mOnionO_ can be changed. This can, e.g., be used to name bridges or to better distinguish nodes in the favorites list. 
+  # On clicking the <img src="http://moniono.googlecode.com/svn/screenshots/save.png" height="12px"/> icon, a nickname change can be confirmed. _*A nickname change will not affect the original node in any way.*_
   # On clicking the <img src="http://moniono.googlecode.com/svn/screenshots/refresh.png" height="12px"/> icon, the nickname is reset to the name provided by _Onionoo_.
+
 
 ===Flags Tab===
 The flags tab shows a list of all flags of the current node.
