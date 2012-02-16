@@ -35,14 +35,24 @@ Each matching node is displayed as an entry in the node list.
 <img src="http://moniono.googlecode.com/svn/screenshots/NodeListEntry.png" width="300px"/>
 </p>
 
-The icon on the left indicates the type of the node. For these purposes, the same icons as in the header are used. In the example above, a relay node is given. The upper line besides the type icon is used to display the nickname of the particular node. An optional <img src="http://moniono.googlecode.com/svn/screenshots/bookmark.png"/> behind the node nickname is used to highlight that the corresponding node is already marked as favorite. The line is left empty if the node is bridge. The lower line contains the fingerprint for relays and the hashed fingerprint for bridges.
+The icon on the left indicates the type of the node. For these purposes, the same icons as in the header are used. In the example above, a relay node is given. The upper line besides the type icon is used to display the nickname of the particular node. An optional <img src="http://moniono.googlecode.com/svn/screenshots/bookmark.png" height="12px"/> behind the nickname is used to highlight that the corresponding node is already marked as favorite. The nickname is left empty if the node is bridge. The lower line contains the fingerprint of a relay or the hashed fingerprint of a bridge. A green text color means that the node is marked as running while a red text color is used for offline nodes. The online state of nodes is directly derived from data received from _Onionoo_.
 
-
-===Selection===
+Each entry of a favorites- or search results list refers to the details view of the corresponding node (see [How2Use#Details Details]. The view can be opened through clicking the list entry.
 
 ==Details==
 
+The details view of a single node consists of four different tabs, namely the _Common_-, _Flags_-, _Policy_-, and _History_ tab:
+<p>
+<img src="http://moniono.googlecode.com/svn/screenshots/Tabs.png" width="300px"/>
+</p>
+
 ===Common Tab===
+The following  screenshot shows an exemplary _Common_ tab:
+<p>
+<img src="http://moniono.googlecode.com/svn/screenshots/CommonDetails.png" width="300px"/>
+</p>
+
+_Onionoo_ information about the current node is shown at the lower part of the tab. The <img src="http://moniono.googlecode.com/svn/screenshots/bookmark_inactive.png" height="12px"/> icon above the details information indicates that the node is not marked as favorite yet.
 
 ===Flags Tab===
 
