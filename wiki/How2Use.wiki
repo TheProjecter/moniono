@@ -92,8 +92,7 @@ The history tab shows charts for bandwidth histories provided by _Onionoo_.
 The drop-down menu below the tabs can be used to select an interval for which a chart should be shown.
 
 <p>
-<img src="http://moniono.googlecode.com/svn/screenshots/ DropDownSelectHistory.png
-" width="300px"/>
+<img src="http://moniono.googlecode.com/svn/screenshots/ DropDownSelectHistory.png" width="300px"/>
 </p>
 
 The provided history intervals depend on the data provided by _Onionoo_.
