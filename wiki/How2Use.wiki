@@ -35,7 +35,7 @@ Each matching node is displayed as an entry in the node list.
 <img src="http://moniono.googlecode.com/svn/screenshots/NodeListEntry.png" width="300px"/>
 </p>
 
-
+The icon on the left indicates the type of the node. For these purposes, the same icons as in the header are used. In the example above, a relay node is given. The upper line besides the type icon is used to display the nickname of the particular node. An optional <img src="http://moniono.googlecode.com/svn/screenshots/bookmark.png"/> behind the node nickname is used to highlight that the corresponding node is already marked as favorite. The line is left empty if the node is bridge. The lower line contains the fingerprint for relays and the hashed fingerprint for bridges.
 
 
 ===Selection===
