@@ -14,7 +14,7 @@ At the top of the screen, four icons support different actions.
 <p>
 <img src="http://moniono.googlecode.com/svn/screenshots/menu.png" width="200px"/>
 </p>
-  * The _Star_ icon resets the (result) list below the icons two those nodes which are marked as favorites.
+  * The _Star_ icon resets the (result) list below the icons to those nodes which are marked as favorites.
   * The _magnifying glass_ can be used to initiate a search for nodes.
   * The _Relay_ (_Rl_) and _Bridge_ (_Br_) icons can be used to show/hide the corresponding nodes from the result list. The particular nodes are displayed if the blue icon is shown. On clicking an icon it is greyed out indicating that the corresponding nodes are hidden from the list below. A second click on a node type icon reactivates it.
 
