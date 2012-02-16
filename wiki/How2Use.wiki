@@ -1,4 +1,6 @@
+#summary This page contains a small user guide for mOnionO.
 #labels User-Guide,HowTo,in-progress
+
 =User Guide=
 The _mOnionO_ app consists of two major parts, namely the _Overview_ and the _Details_. The former part provides overviews of favorite nodes and of search results. The latter part supports the inspection of detailed information on a single node.
 
@@ -15,8 +17,8 @@ At the top of the screen, four icons support different actions.
 <img src="http://moniono.googlecode.com/svn/screenshots/menu.png" width="200px"/>
 </p>
   * The _Star_ icon resets the (result) list below the icons to those nodes which are marked as favorites.
-  * The _magnifying glass_ can be used to initiate a search for nodes.
-  * The _Relay_ (_Rl_) and _Bridge_ (_Br_) icons can be used to show/hide the corresponding nodes from the result list. The particular nodes are displayed if the blue icon is shown. On clicking an icon it is greyed out indicating that the corresponding nodes are hidden from the list below. A second click on a node type icon reactivates it.
+  * The _magnifying glass_ can be used to initiate a search for nodes. For further details go to [How2Use#Search Search].
+  * The _Relay_ (_Rl_) and _Bridge_ (_Br_) icons can be used to show/hide the corresponding nodes from the result list. The particular nodes are displayed if the blue icon is shown. On clicking an icon it is greyed out indicating that the corresponding nodes are hidden from the list below. A second click on an icon reactivates it.
 
 ===Search===
 On clicking the search button the search bar is opened below the icons.
