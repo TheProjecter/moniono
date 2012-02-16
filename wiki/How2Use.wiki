@@ -29,11 +29,13 @@ Within the text field the search text can be entered. A search is executed on cl
 
 A search is executed based on nicknames, (hashed) fingerprints, and IP addresses. Multiple search terms can be provided delimited by white spaces. A search result must match all search terms provided.
 
-A search result is displayed as follows:
+Each matching node is displayed as an entry in the node list.
 
 <p>
-<img src="http://moniono.googlecode.com/svn/screenshots/SearchScreen.png" width="300px"/>
+<img src="http://moniono.googlecode.com/svn/screenshots/NodeListEntry.png" width="300px"/>
 </p>
+
+
 
 
 ===Selection===
