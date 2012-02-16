@@ -1,5 +1,5 @@
 #summary This page contains a small user guide for mOnionO.
-#labels User-Guide,HowTo,in-progress
+#labels User-Guide,HowTo,Featured
 
 =User Guide=
 The _mOnionO_ app consists of two major parts, namely the _Overview_ and the _Details_. The former part provides overviews of favorite nodes and of search results. The latter part supports the inspection of detailed information on a single node.
