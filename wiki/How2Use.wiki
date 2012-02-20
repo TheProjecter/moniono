@@ -14,7 +14,7 @@ On opening the _Overview_ of _mOnionO_, the list of favorite nodes is shown. Ini
 
 At the top of the screen, four icons support different actions.
 <p>
-<img src="http://moniono.googlecode.com/svn/screenshots/menu.png" width="200px"/>
+<img src="http://moniono.googlecode.com/svn/screenshots/menu.png" width="300px"/>
 </p>
   * The _Star_ icon resets the (result) list below the icons to those nodes which are marked as favorites.
   * The _magnifying glass_ can be used to initiate a search for nodes. For further details go to [How2Use#Search Search].
